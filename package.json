@@ -1,0 +1,22 @@
+{
+  "name": "replace",
+  "version": "1.0.0",
+  "description": "teste para trocar valores de string em arquivos",
+  "main": "replacer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitLucasHenrique/replacerTest.git"
+  },
+  "keywords": [
+    "platypus"
+  ],
+  "author": "Lucas Henrique Ronqui de Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitLucasHenrique/replacerTest/issues"
+  },
+  "homepage": "https://github.com/gitLucasHenrique/replacerTest#readme"
+}
